@@ -90,6 +90,7 @@ class DiwaliSaleController extends Controller
         ]);   
     }
 
+    
     /**
      * Rule 3: Buy Two Get Two Free (Free item < price of paid items)
      * 
